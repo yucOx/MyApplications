@@ -28,14 +28,8 @@
 
 <p>Lebleby provides more than 100+ mini games to users (HTML5 Games).</p>
 <ul>
-    <li>Hilt Dagger 2</li>
-    <li>Jetpack</li>
-    <li>XML</li>
-    <li>Glide</li>
-    <li>Firebase Integration: Authentication, Realtime Database</li>
-    <li>Google Ads</li>
-    <li>Navigation</li>
-    <li>Image Slideshow</li>
+    <li>Find your favorite game and add to your list.</li>
+    <li>Search which game you want.</li>
 </ul>
 
 <h2>Pill Pulse (Pill Reminder)</h2>
