@@ -53,3 +53,21 @@
     <li>Also Pill Pulse will save your pills automatically or you can do it manually.</li>
     <li>Pie Data: You can follow your pills usage statistics by Pie Chart.</li>
 </ul>
+<h2>BillBlend</h2>
+<p>BillBlend allows you to keep track of and split bills equally with your friends or family during shared purchases. Thanks to its advanced features, it automatically divides your bill and allows you to enter person-specific amounts. Additionally, this app saves and stores pictures of your receipts according to your preferences.</p>
+
+<p>This is my first application. The idea came from my experience as a student, where we often struggled to split and track household bills and grocery expenses with roommates. That's why I created this application to solve this common problem.</p>
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+<img src="https://play-lh.googleusercontent.com/GJ9cyHsAa3vOPMA36rcTneDvokuAAfOGkzWjsAlaxyvAoicnd7MxYlPJZerx4Ifna1Y=w526-h296-rw" alt="BillBlend" width="24%">
+<img src="https://play-lh.googleusercontent.com/_fcu-9VGahq2ribflZqEWBXyPEzACmtmVp6t2KiCTfPtMIX86lcfxCvE5-kD_pPEMh2B=w526-h296-rw" alt="BillBlend" width="24%">
+<img src="https://play-lh.googleusercontent.com/v27JPH_R23Su1Zx28fdH8WZJgwVofwLJuQdpEKe8SQZ3cEQTb_lUef01SQR9dUX0G5c=w526-h296-rw" alt="BillBlend" width="24%">
+<img src="https://play-lh.googleusercontent.com/dPYWxrAAbtQsiOMop6puuR__hgIfBQICrYhN1odjpwcOQlYQgkHmwL7sa136R5p372kN=w526-h296-rw" alt="BillBlend" width="24%">
+</div>
+
+<ul>
+<li>Add friends and split bills</li>
+<li>Upload receipt photos</li>
+<li>Mark bills as paid/unpaid and notify other users</li>
+<li>Split bill amounts equally or customized per person</li>
+</ul>
