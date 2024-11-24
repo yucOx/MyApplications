@@ -1,4 +1,4 @@
-<h1>Published Applications</h1>
+<h1>Some of Published Applications and Their Stories</h1>
 
 <h2>AdBlocker for Websites Ads</h2>
 <p>This is one of the biggest problems for users, so why don't we block them on mobile? I used this technology for some of my apps. How did I do it? Long story short, I created a filter list to block ads and overrode the WebView method. Surprise! No Ads :)</p>
