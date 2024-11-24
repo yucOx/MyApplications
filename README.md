@@ -1,5 +1,4 @@
 <h1>Some of Published Applications and Their Stories</h1>
-<p>You can find all my applications on Google Play Store:</p>
 <a href="https://play.google.com/store/apps/dev?id=7058833202431016835" target="_blank">
 <button style="
 background-color: #4CAF50;
