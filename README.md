@@ -5,8 +5,10 @@
 
 <p>Few apps that I used this technology:</p>
 <ul>
-    <li><a href="https://play.google.com/store/apps/details?id=com.yucox.whatthenads">WhatTheNAds!</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.yucox.whatthenads">WhatTheNAds! (Offline for a while)</a></li>
     <li><a href="https://play.google.com/store/apps/details?id=com.yucox.lebleby">Lebleby</a></li>
+    <li>And much more</li>
+    
 </ul>
 
 <p>I'm about to publish this as a library soon.</p>
