@@ -1,22 +1,4 @@
 <h1>Some of Published Applications and Their Stories</h1>
-<a href="https://play.google.com/store/apps/dev?id=7058833202431016835" target="_blank">
-<button style="
-background-color: #4CAF50;
-border: none;
-color: white;
-padding: 15px 32px;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-size: 16px;
-margin: 4px 2px;
-cursor: pointer;
-border-radius: 4px;
-box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-View All Apps on Google Play Store
-</button>
-</a>
-
 <h2>AdBlocker for Websites Ads</h2>
 <p>This is one of the biggest problems for users, so why don't we block them on mobile? I used this technology for some of my apps. How did I do it? Long story short, I created a filter list to block ads and overrode the WebView method. Surprise! No Ads :)</p>
 
